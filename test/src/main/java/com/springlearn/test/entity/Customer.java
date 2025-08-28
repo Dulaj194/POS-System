@@ -1,4 +1,4 @@
-package com.springlearn.test.customers;
+package com.springlearn.test.entity;
 
 
 
